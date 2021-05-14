@@ -1,0 +1,23 @@
+header{
+  font-family: 'Nosifer', cursive;
+  color: white;
+}
+
+.all-font{
+  font-family: 'Nosifer', cursive;
+  color: white;
+}
+
+.bg-theme{
+  background-image: url(https://legendsoflocalization.com/wp-content/uploads/2013/09/street-fighter-japanese-signs-1280x720.png);
+  background-size: cover;
+}
+
+.img-flip{
+  transform: scaleX(-1);
+}
+
+.big{
+  max-width:100%;
+  height:500px;
+}
